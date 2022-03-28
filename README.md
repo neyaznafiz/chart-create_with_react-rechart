@@ -1,4 +1,4 @@
 
-# Explore many type of chart
+# Explore many type of charts
 
-## https://recharts.org/en-US/
+## Click Here : https://recharts.org/en-US/
